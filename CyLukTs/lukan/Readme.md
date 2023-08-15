@@ -1,0 +1,1 @@
+Nezapomenout na instalaci TypeScript a vytvoření tsconfig.json
